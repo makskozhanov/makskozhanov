@@ -24,3 +24,6 @@ I was studying python with [Oleg Molchanov course](https://youtube.com/playlist?
 * PostgreSQL and SQLite
 * Sqlalchemy
 * Flask
+
+## Contacts
+[makskozhanov@gmail.com](mailto:makskozhanov@gmail.com)
