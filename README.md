@@ -8,6 +8,6 @@ I was studying python with [Oleg Molchanov course](https://youtube.com/playlist?
 
 ## Skills
 
-* python ○○
+* python ●●●○○
 * HTML ○
 * CSS ○○
