@@ -9,7 +9,7 @@ I was studying python with [Oleg Molchanov course](https://youtube.com/playlist?
 ### Books I've read
 * Grokking Algorithms | Aditya Y. Bhargava
 * Python Tricks: A Buffet of Awesome Python Features | Dan Baden
-* 
+* Типизированный python | Алексей Голобурдин
 
 ## Skills
 
