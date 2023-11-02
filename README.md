@@ -27,4 +27,4 @@ I was studying python with [Oleg Molchanov course](https://youtube.com/playlist?
 
 ## Contacts
 [makskozhanov@gmail.com](mailto:makskozhanov@gmail.com)
-[maxkozhanov](tg:@maxkozhanov)
+[maxkozhanov](t.me/@maxkozhanov)
