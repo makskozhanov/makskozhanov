@@ -3,8 +3,8 @@ I am Max.
 I am beginner python developer.
 
 ## Education
-I prefer to learn new things by myself.
-I was studying python with [Oleg Molchanov course](https://youtube.com/playlist?list=PLlWXhlUMyooaeSj8L8tVVbtUo0WCO4ORR&si=3TOXOvZ0pRO4jusr) and his paid OOP course.
+I prefer self-education.
+I studied python with [Oleg Molchanov course](https://youtube.com/playlist?list=PLlWXhlUMyooaeSj8L8tVVbtUo0WCO4ORR&si=3TOXOvZ0pRO4jusr) and his paid OOP course.
 
 ### Books I've read
 * Grokking Algorithms | Aditya Y. Bhargava
@@ -19,7 +19,7 @@ I was studying python with [Oleg Molchanov course](https://youtube.com/playlist?
 * Git
 * SQL
 
-## Technologies, which I use
+## I use next technologies
 * Redis
 * PostgreSQL and SQLite
 * Sqlalchemy
@@ -27,4 +27,4 @@ I was studying python with [Oleg Molchanov course](https://youtube.com/playlist?
 
 ## Contacts
 [makskozhanov@gmail.com](mailto:makskozhanov@gmail.com)
-[maxkozhanov](https://t.me/maxkozhanov)
+[telegram](https://t.me/maxkozhanov)
