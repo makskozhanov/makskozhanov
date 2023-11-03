@@ -11,10 +11,10 @@ I studied python with [Oleg Molchanov course](https://youtube.com/playlist?list=
 * Python Tricks: A Buffet of Awesome Python Features | Dan Baden
 * Типизированный python | Алексей Голобурдин
 
-## Skills
+## My skills
 
 * Python ●●●○○
-* HTML ○
+* HTML ▪▪▪▫▫
 * CSS ○○
 * Git
 * SQL
