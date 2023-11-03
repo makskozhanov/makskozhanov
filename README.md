@@ -16,9 +16,9 @@ I studied python with [Oleg Molchanov course](https://youtube.com/playlist?list=
 * Python ●●●○○
 * HTML ●●●○○
 * CSS ●●●○○
-* Git ●●○○
-* SQL ●●○○
-* JavaScript ●●●○○
+* Git ●●○○○
+* SQL ●●○○○
+* JavaScript ●●○○○
 
 ## I use next technologies
 * Redis
@@ -27,5 +27,6 @@ I studied python with [Oleg Molchanov course](https://youtube.com/playlist?list=
 * Flask
 
 ## Contacts
-[makskozhanov@gmail.com](mailto:makskozhanov@gmail.com)
-[telegram](https://t.me/maxkozhanov)
+* [makskozhanov@gmail.com](mailto:makskozhanov@gmail.com)
+
+* [telegram](https://t.me/maxkozhanov)
