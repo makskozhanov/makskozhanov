@@ -14,10 +14,11 @@ I studied python with [Oleg Molchanov course](https://youtube.com/playlist?list=
 ## My skills
 
 * Python ●●●○○
-* HTML ▪▪▪▫▫
-* CSS ○○
-* Git
-* SQL
+* HTML ●●●○○
+* CSS ●●●○○
+* Git ●●○○
+* SQL ●●○○
+* JavaScript ●●●○○
 
 ## I use next technologies
 * Redis
